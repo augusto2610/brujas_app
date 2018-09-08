@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BrujasFC</string>
+
+    <!--Fixture item strings -->
+    <string name="opponent_text_item">Brujas vs %s</string>
+    <string name="match_field_number">%s - Cancha %s</string>
+    <string name="non_match_score">-</string>
+</resources>
